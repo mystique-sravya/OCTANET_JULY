@@ -2,6 +2,8 @@
 All of the projects accomplished during the Internship at OCTANET
 
 # Task_1 : Landing Page:
+Github repo: https://github.com/mystique-sravya/OCTANET_JULY/tree/main/task_1_Landing_page
+
 The website has the following sections:
 
 1. Header Section:
