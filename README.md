@@ -42,3 +42,24 @@ The to-do list website I created is a simple web application that allows users t
 7. **Responsive Design**: The website is designed to be responsive, adapting to different screen sizes and providing an optimal viewing experience on various devices, including desktops, tablets, and mobile devices.
 
 The to-do list website provides a simple and intuitive interface for managing tasks, allowing users to add, complete, and delete tasks easily. With the use of persistent storage, users can rely on the website to keep track of their to-do list over multiple sessions.
+
+# Task-3 Hulu Website Clone - HTML & CSS
+
+This project is a Hulu website clone built using HTML and CSS. It replicates the design and layout of the Hulu homepage to demonstrate fundamental web development skills, including structuring webpages, applying styles, and creating responsive layouts.
+
+The Hulu Website Clone project aims to provide a hands-on learning experience for HTML and CSS development. It showcases how to create a modern and visually appealing website by mimicking the design of the Hulu homepage. This project does not include backend functionalities and uses only static HTML and CSS to build the user interface.
+
+**The project primarily uses the following technologies:**
+
+- HTML5: For structuring the webpage content.
+- CSS3: For styling and layout design.
+- Responsive Design: Using media queries to ensure adaptability across different screen sizes.
+
+**Features**
+
+The Hulu Website Clone showcases the following features:
+
+- Responsive design that adapts to various devices and screen sizes.
+- Accurate representation of the Hulu homepage design using HTML and CSS.
+
+I would like to express my gratitude to [Traversy Media][YouTube tutorial](https://www.youtube.com/watch?v=9OVLaEjY-Rc), whose tutorial served as the foundation for this project. Their guidance and expertise were instrumental in building this Hulu Website Clone.
